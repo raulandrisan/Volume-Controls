@@ -2,6 +2,7 @@
 = VOLUME CONTROLS - ALFRED EXTENSION =
 ======================================
 Author:   Justin Kopepasah
+Version:  1.0.1
 Website:  http://kopepasah.com
 Twitter:  http://twitter.com/kopepasah	
 
